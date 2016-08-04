@@ -1,0 +1,2 @@
+#Содержимое файла .rvmrc
+rvm use 2.2.0@railstutuorial_rails_4_2
